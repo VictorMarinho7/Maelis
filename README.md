@@ -35,6 +35,6 @@ Para garantir respostas rápidas, os controles foram otimizados para o teclado:
 
 Como o projeto é nativo da Web, a execução é imediata. 
 
-1. Faça o clone deste repositório para a sua máquina:
+1. Acesse o link abaixo:
    ```bash
    https://maelis.roboticminds.com.br/
